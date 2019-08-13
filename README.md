@@ -12,7 +12,8 @@ A Flutter plugin for opening iOS and Android phone settings from an app.
 dependencies:
   flutter:
     sdk: flutter
-  app_settings: 1.0.6+1
+  app_settings:
+    git: https://github.com/ukindo/app_settings.git
 ```
 
 Next, import 'app_settings.dart' into your dart code.
