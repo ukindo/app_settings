@@ -3,9 +3,9 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'app_settings'
-  s.version          = '1.0.6+1'
+  s.version          = '1.0.6+2'
   s.summary          = 'A Flutter plugin for opening iOS and Android phone settings from an app.'
-  s.description      = ''
+  s.description      = 'A Flutter plugin for opening iOS and Android phone settings from an app.'
   s.homepage         = 'https://github.com/spencerccf/app_settings'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'spencerccf@gmail.com' => 'spencerccf@gmail.com' }
